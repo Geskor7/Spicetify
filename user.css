@@ -3,6 +3,7 @@
 }
 
 .Root__top-container {
+    background-color: unset !important;
     background-size: cover;
 }
 
